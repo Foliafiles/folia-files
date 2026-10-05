@@ -1,0 +1,15 @@
+name: Feature request
+description: An idea that would make Folia Files better.
+labels: [enhancement]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What are you trying to do?
+      description: The task or the habit (from the Finder, Total Commander, another app…) that Folia Files doesn't cover yet.
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: How would you like it to work?

@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Purchases, licenses and private questions
+    url: https://foliafiles.com/en/support/?ref=github
+    about: Write to support@foliafiles.com — never post a license key in an issue.
