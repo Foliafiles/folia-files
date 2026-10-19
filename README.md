@@ -2,7 +2,7 @@
 
 **A native file manager for Mac, for people who outgrew the Finder.**
 
-[Website](https://foliafiles.com/?ref=github) · [Download the 7-day free trial](https://foliafiles.com/en/download/?ref=github) · [Features](https://foliafiles.com/en/features/?ref=github) · [The film (1:05)](https://youtu.be/XpkSeNHxsNE) · [Press kit](https://foliafiles.com/en/press/?ref=github)
+[Website](https://foliafiles.com/?ref=github) · [Download the 7-day free trial](https://foliafiles.com/en/download/?ref=github) · [Features](https://foliafiles.com/en/features/?ref=github) · [The film (1:19)](https://youtu.be/9jeIMFnndHU) · [Press kit](https://foliafiles.com/en/press/?ref=github)
 
 This repository is the public home of Folia Files on GitHub: **bug reports, feature requests and themes shared by users.** The app itself is closed source.
 
