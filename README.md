@@ -15,7 +15,7 @@ This repository is the public home of Folia Files on GitHub: **bug reports, feat
 - A clipboard history (⌃⌥V), a drawer at the edge of the screen and an assistant next to every app's Open and Save dialogs
 - Batch rename, duplicates, PDF tools, sync, backups and Mac care
 
-Native app (Swift, AppKit, SwiftUI), macOS 14 or later, universal (Apple silicon and Intel), in 8 languages. One-time purchase: $49.99 (49,99 € in the euro area) for up to 3 Macs, no subscription, no account. Also on the Mac App Store from 27 October 2026.
+Native app (Swift, AppKit, SwiftUI), macOS 14 or later, universal (Apple silicon and Intel), in 8 languages. One-time purchase: $49.99 (49,99 € in the euro area) for up to 3 Macs, no subscription, no account. A Mac App Store edition will follow.
 
 ## Report a bug or ask for a feature
 
