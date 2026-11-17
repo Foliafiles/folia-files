@@ -8,14 +8,14 @@ This repository is the public home of Folia Files on GitHub: **ideas you can vot
 
 ## What it is
 
-- As many panes side by side as you need, each with its own view (icons, list, detailed list, tree, columns, gallery, mosaic, branches, disk space), saved as scenes
+- As many panes side by side as you need, each with its own view (icons, list, detailed list, tree, columns, gallery, mosaic, branches, board, disk space), saved as scenes
 - Search by name, by the text inside documents and screenshots, or by what your photos show
-- SMB, WebDAV, FTP, SFTP and S3 servers and cloud services mounted like disks
+- SMB, WebDAV, AFP, NFS, FTP, SFTP and S3 servers and more than 50 cloud services mounted like disks (rclone comes inside the app)
 - Every copy, move and rename in a history you can undo
 - A clipboard history (⌃⌥V), a drawer at the edge of the screen and an assistant next to every app's Open and Save dialogs
-- Batch rename, duplicates, PDF tools, sync, backups and Mac care
+- A text editor, batch rename, duplicates, PDF tools, sync, backups and Mac care
 
-Native app (Swift, AppKit, SwiftUI), macOS 14 or later, universal (Apple silicon and Intel), in 8 languages. One-time purchase: $49.99 (49,99 € in the euro area) for up to 3 Macs, no subscription, no account. A Mac App Store edition will follow.
+Native app (Swift, AppKit, SwiftUI), macOS 14 or later, universal (Apple silicon and Intel), in 8 languages. One-time purchase: $49.99 (49,99 € in the euro area) for up to 3 Macs, or $69.99 (69,99 €) for 6, every update included, no subscription, no account, 7-day free trial. Every feature is explained in the [documentation](https://foliafiles.com/en/docs/?ref=github).
 
 ## Ideas, questions and news
 
@@ -33,7 +33,7 @@ Please **never post a license key or personal files** here: for anything about a
 
 ## Themes
 
-Folia Files comes with a gallery of 20 themes, one click away in Settings › Themes › Gallery, and [shown on the website](https://foliafiles.com/en/themes/?ref=github):
+Folia Files comes with a gallery of 21 themes, one click away in Settings › Themes › Gallery, and [shown on the website](https://foliafiles.com/en/themes/?ref=github):
 
 | Theme | |
 |---|---|
@@ -57,6 +57,7 @@ Folia Files comes with a gallery of 20 themes, one click away in Settings › Th
 | Plum | Rich, deep purples, from backdrop to selection. |
 | Prism | Every colour at once, behind a sober window. |
 | Phosphor | Phosphor green and sharp corners, like an old terminal. |
+| Classic Blue | The deep blue of the file managers of old, with a turquoise selection. |
 
 ### Share your own theme
 
