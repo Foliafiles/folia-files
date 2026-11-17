@@ -2,14 +2,14 @@
 
 **A native file manager for Mac, for people who outgrew the Finder.**
 
-[Website](https://foliafiles.com/?ref=github) · [Download the 7-day free trial](https://foliafiles.com/en/download/?ref=github) · [Features](https://foliafiles.com/en/features/?ref=github) · [The film (1:24)](https://youtu.be/ub2iXtMlC-Y) · [Press kit](https://foliafiles.com/en/press/?ref=github)
+[Website](https://foliafiles.com/?ref=github) · [Download the 7-day free trial](https://foliafiles.com/en/download/?ref=github) · [Features](https://foliafiles.com/en/features/?ref=github) · [The film (1:24)](https://youtu.be/ub2iXtMlC-Y) · [Press kit](https://foliafiles.com/en/press/?ref=github) · [Discussions](https://github.com/Foliafiles/folia-files/discussions)
 
-This repository is the public home of Folia Files on GitHub: **bug reports, feature requests and themes shared by users.** The app itself is closed source.
+This repository is the public home of Folia Files on GitHub: **ideas you can vote on, questions, announcements, bug reports and themes shared by users.** The app itself is closed source.
 
 ## What it is
 
-- As many panes side by side as you need, each with its own view (list, tree, columns, icons, gallery, size bubbles), saved as scenes
-- Search inside documents, PDFs and screenshots by words or by meaning (meaning in English, French, German, Spanish and Italian), indexed on your Mac
+- As many panes side by side as you need, each with its own view (icons, list, detailed list, tree, columns, gallery, mosaic, branches, disk space), saved as scenes
+- Search by name, by the text inside documents and screenshots, or by what your photos show
 - SMB, WebDAV, FTP, SFTP and S3 servers and cloud services mounted like disks
 - Every copy, move and rename in a history you can undo
 - A clipboard history (⌃⌥V), a drawer at the edge of the screen and an assistant next to every app's Open and Save dialogs
@@ -17,9 +17,19 @@ This repository is the public home of Folia Files on GitHub: **bug reports, feat
 
 Native app (Swift, AppKit, SwiftUI), macOS 14 or later, universal (Apple silicon and Intel), in 8 languages. One-time purchase: $49.99 (49,99 € in the euro area) for up to 3 Macs, no subscription, no account. A Mac App Store edition will follow.
 
-## Report a bug or ask for a feature
+## Ideas, questions and news
 
-[Open an issue](../../issues/new/choose). Please **never post a license key or personal files** here: for anything about a purchase or a license, write to support@foliafiles.com.
+[GitHub Discussions](https://github.com/Foliafiles/folia-files/discussions) is the place to talk about Folia Files:
+
+- **[Ideas](https://github.com/Foliafiles/folia-files/discussions/categories/ideas)**: suggest a feature, or upvote one that's already there. The most wanted ones go first.
+- **[Q&A](https://github.com/Foliafiles/folia-files/discussions/categories/q-a)**: ask how to do something; other users and we answer.
+- **[Announcements](https://github.com/Foliafiles/folia-files/discussions/categories/announcements)**: new versions and what's in them.
+
+## Report a bug
+
+[Open an issue](../../issues/new/choose).
+
+Please **never post a license key or personal files** here: for anything about a purchase or a license, write to support@foliafiles.com.
 
 ## Themes
 

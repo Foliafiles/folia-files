@@ -1,5 +1,11 @@
 blank_issues_enabled: false
 contact_links:
+  - name: An idea for Folia Files
+    url: https://github.com/Foliafiles/folia-files/discussions/categories/ideas
+    about: Suggest a feature in Discussions › Ideas, or upvote one that's already there.
+  - name: A question about using Folia Files
+    url: https://github.com/Foliafiles/folia-files/discussions/categories/q-a
+    about: Ask in Discussions › Q&A; other users and we answer.
   - name: Purchases, licenses and private questions
     url: https://foliafiles.com/en/support/?ref=github
-    about: Write to support@foliafiles.com — never post a license key in an issue.
+    about: Write to support@foliafiles.com — never post a license key in an issue or a discussion.
