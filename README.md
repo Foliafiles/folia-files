@@ -6,6 +6,16 @@
 
 This repository is the public home of Folia Files on GitHub: **ideas you can vote on, questions, announcements, bug reports and themes shared by users.** The app itself is closed source.
 
+![Folia Files: folders side by side, each pane with its own view, the Info and Preview modules on the right](assets/panes.jpg)
+
+## See it in action
+
+A 33-second tour:
+
+https://github.com/user-attachments/assets/57fef345-8f7a-464e-bfde-4bbaede22af4
+
+<a href="https://youtu.be/ub2iXtMlC-Y"><img src="assets/film.jpg" alt="Watch the film of Folia Files on YouTube (1:24)" width="100%"></a>
+
 ## What it is
 
 - As many panes side by side as you need, each with its own view (icons, list, detailed list, tree, columns, gallery, mosaic, branches, board, disk space), saved as scenes
@@ -16,6 +26,48 @@ This repository is the public home of Folia Files on GitHub: **ideas you can vot
 - A text editor, batch rename, duplicates, PDF tools, sync, backups and Mac care
 
 Native app (Swift, AppKit, SwiftUI), macOS 14 or later, universal (Apple silicon and Intel), in 8 languages. One-time purchase: $49.99 (49,99 € in the euro area) for up to 3 Macs, or $69.99 (69,99 €) for 6, every update included, no subscription, no account, 7-day free trial. Every feature is explained in the [documentation](https://foliafiles.com/en/docs/?ref=github).
+
+## Screenshots
+
+<table>
+<tr>
+<td width="50%"><img src="assets/view-mosaic.jpg" alt="The Mosaic view: every photo whole, at its own shape"><br><b>Mosaic</b>: every photo whole, at its own shape.</td>
+<td width="50%"><img src="assets/view-branches.jpg" alt="The Branches view: folders as a map of cards"><br><b>Branches</b>: your folders as a map, one card per folder.</td>
+</tr>
+<tr>
+<td><img src="assets/view-board.jpg" alt="The Board view: drag a file from one column to another to sort it"><br><b>Board</b>: drag a file to another column to move or tag it.</td>
+<td><img src="assets/search-text.jpg" alt="Search inside documents, screenshots and scans"><br><b>Search</b> by name, inside documents and screenshots, or by what a photo shows.</td>
+</tr>
+<tr>
+<td><img src="assets/servers-clouds.jpg" alt="Servers and clouds mounted like disks"><br><b>Servers and clouds</b> mounted like disks: SFTP, SMB, FTP, S3, and more than 50 cloud services.</td>
+<td><img src="assets/clipboard.jpg" alt="Clipboard history"><br><b>Clipboard history</b> (⌃⌥V): everything you copied, pinned or searched.</td>
+</tr>
+<tr>
+<td><img src="assets/drawer.jpg" alt="The drawer at the edge of the screen"><br><b>The drawer</b>: drop files at the edge of the screen, keep them at hand from any app.</td>
+<td><img src="assets/undo.jpg" alt="Operations and their history"><br><b>Copies, moves and renames can be undone</b>, even days later, from their history.</td>
+</tr>
+<tr>
+<td><img src="assets/tools.jpg" alt="The built-in tools"><br><b>Built-in tools</b>: batch rename, duplicates, compare folders, PDF tools, sync, backups, Mac care.</td>
+<td><img src="assets/glass.jpg" alt="A see-through glass theme"><br><b>Themes</b>, from quiet to see-through glass.</td>
+</tr>
+</table>
+
+## Video tutorials
+
+Short tutorials, each showing one thing in the real app ([all of them on YouTube](https://www.youtube.com/@foliafiles/videos), and on the [website](https://foliafiles.com/en/tutorials/?ref=github)):
+
+- [Two folders side by side](https://youtu.be/lF6tM1o2tT8) (0:53)
+- [The Mosaic view: every photo at its own shape](https://youtu.be/5JH8s6Ax_20) (1:11)
+- [See your folders as a map](https://youtu.be/JMsbHnEGkF4) (1:07)
+- [Save a layout of panes as a scene](https://youtu.be/TjFz8WPjkvs) (1:05)
+- [Every module, one by one](https://youtu.be/qzVxFImbPZo) (2:56)
+- [Search by name, inside files, or by what's in a photo](https://youtu.be/0NeroI07QoQ) (0:55)
+- [Clipboard history on a Mac](https://youtu.be/vO6pSnjMthI) (0:35)
+- [Undo a file move, copy or rename](https://youtu.be/HEQ4rA5pH_c) (0:38)
+- [Rename photos by the date they were taken](https://youtu.be/RQ5hMU37pcE) (0:46)
+- [Compare two folders](https://youtu.be/o3on1qVyDKI) (0:37)
+- [Convert, resize and clean up photos from the right-click menu](https://youtu.be/zJoWEOMEWJM) (1:06)
+- [Themes and a see-through window on Mac](https://youtu.be/uqncj8pH5Ts) (1:16)
 
 ## Ideas, questions and news
 
